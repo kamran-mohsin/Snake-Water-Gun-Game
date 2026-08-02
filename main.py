@@ -10,7 +10,7 @@ userscore=0
 computerscore=0
 drawscore=0
 a=0
-print(f"=====================\nSnake Water Gun Game\n=====================")
+print(f"======================\nSnake Water Gun Game\n======================")
 while True:
  a=int(input("Set total_rounds 1,3,5 or 10:"))
  if(a in [1,3,5,10]):
